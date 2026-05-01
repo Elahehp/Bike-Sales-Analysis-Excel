@@ -39,3 +39,6 @@ A deep dive into gender-specific behavior across regions to assist in targeted m
 * **Data Visualization:** Crafting stacked column charts to simplify demographic comparisons.
 * **Business Logic:** Using data to answer specific commercial objectives.
 
+---
+### 🔗 Quick Link
+- [**Back to Main Portfolio**](https://github.com/Elahehp)
